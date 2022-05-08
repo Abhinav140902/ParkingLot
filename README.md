@@ -24,7 +24,7 @@ Python3 is required to run the program.
 
  A parking lot with n slots will be created
  
-![im](/img/1.png)
+![im](/images/1.png)
 
 #### Park
 
@@ -33,28 +33,28 @@ Python3 is required to run the program.
 Arguments- Reg No., Colour, Type of vehicle   
 * Allots the nearest slot
 
-![im](/img/2.png)
+![im](/images/2.png)
 
 #### Display()
-![im](/img/3.png)
+![im](/images/3.png)
 
 #### Get Ticket No. by Registration number of the vehicle
 
 ``` get_slotnum_by_regNo RegistrationNum```
 
-![im](/img/5.png)
+![im](/images/5.png)
 
 
 
 #### Leave n
 Arguments - Ticket No. allotted when parked    
-![im](/img/4.png)
+![im](/images/4.png)
 
 
 #### Exit
 Terminates the program
 
-![im](/img/6.png)
+![im](/images/6.png)
 
 
 
