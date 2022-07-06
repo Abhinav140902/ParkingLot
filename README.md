@@ -11,7 +11,7 @@ Python3 is required to run the program.
  ## To create a parking lot 
  
  * Clone the repository 
- * Run ```python parkingLot.py```
+ * Run ```python ParkingLot.py```
 
  ## Methods
 
@@ -42,14 +42,14 @@ Arguments- Reg No., Colour, Type of vehicle
 
 ``` get_slotnum_by_regNo RegistrationNum```
 
-![im](/images/5.png)
+![im](/images/4.png)
 
 
 
 #### Leave n
 Arguments - Ticket No. allotted when parked    
-![im](/images/4.png)
 
+![im](/images/5.png)
 
 #### Exit
 Terminates the program
